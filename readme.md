@@ -2,3 +2,5 @@
 
 
 for today landing page completed
+
+second day of project
